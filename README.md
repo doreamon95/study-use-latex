@@ -26,3 +26,9 @@
 | Latex自定义定理类环境                                        | [link](https://www.notion.so/66d6f45e15ac499b92b53b37882f8e1c) |
 | Latex算法排版                                                | [link](https://www.cnblogs.com/tsingke/p/5833221.html)       |
 
+补充
+
+| 功能        | 链接                                                         |
+| ----------- | ------------------------------------------------------------ |
+| switch case | [link](https://tex.stackexchange.com/questions/79264/algorithm2e-different-ending-words-for-switch-and-case-blocks) |
+
