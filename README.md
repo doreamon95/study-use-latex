@@ -28,15 +28,15 @@
 
 ## 2. 在哪里查询模板如何入手
 
-首先建议初学者阅读华东科大制作的latex教程网页，内容非常全，链接为：http://math.ecnu.edu.cn/~jypan/Latex/index.html，或直接点击[华东师大LaTeX科技排版教程](http://math.ecnu.edu.cn/~jypan/Latex/index.html)。该教程也可作为后期排版定期浏览的一个查阅资料网站。此外，华东师大还有很多的参考资料，总之这个网站强烈推荐。
+首先建议初学者阅读华东科大制作的latex教程网页，内容非常全，点击 [华东师大LaTeX科技排版教程](http://math.ecnu.edu.cn/~jypan/Latex/index.html)。该教程也可作为后期排版定期浏览的一个查阅资料网站。此外，华东师大还有很多的参考资料，总之这个网站强烈推荐。
 
 ---
 
-2020.6.29 补充：Latex有个中文版本在线学习教程，https://www.latexstudio.net/hulatex/tutorial/ChineseBase.htm，或点击 [Latex中文版本在线学习教程](https://www.latexstudio.net/hulatex/tutorial/ChineseBase.htm)。
+2020.6.29 补充：Latex有个 [Latex中文版本在线学习教程](https://www.latexstudio.net/hulatex/tutorial/ChineseBase.htm)。
 
 ---
 
-Latex在线模板下载，请参阅Overleaf在线模板，https://www.overleaf.com/latex/templates。
+Latex在线模板下载，请参阅[Overleaf在线模板](https://www.overleaf.com/latex/templates)。
 
 ## 3. 常见使用姿势
 
@@ -44,7 +44,7 @@ Latex在线模板下载，请参阅Overleaf在线模板，https://www.overleaf.c
 
 ### 3.1 表格
 
-如果排版过程中需要有表格，怎么办？一般考虑3种解决方案：普通表格、三线表、在线表格排版。提到表格排版，推荐在线表格排版：https://www.tablesgenerator.com/# ，或点击[在线表格排版](https://www.tablesgenerator.com/#)。
+如果排版过程中需要有表格，怎么办？一般考虑3种解决方案：普通表格、三线表、在线表格排版。提到表格排版，推荐在线表格排版：[在线表格排版](https://www.tablesgenerator.com/#)。
 
 在大多数情况下，可能会对表格排版进行手动设置和调整，则需要了解基础的排版内容，表格排版一定不要忘了引入包：
 
@@ -82,11 +82,13 @@ Latex在线模板下载，请参阅Overleaf在线模板，https://www.overleaf.c
 
 表格并排排版： http://blog.sina.com.cn/s/blog_630306a50101av80.html
 
-[Latex表格过大过小调整](https://blog.csdn.net/wbl90/article/details/52597429)：https://blog.csdn.net/wbl90/article/details/52597429
+Latex表格过大过小调整：https://blog.csdn.net/wbl90/article/details/52597429
 
 ### 3.2 图片
 
-如果排版过程中需要插入图片，怎么办？一般考虑3种情况：一栏单图排版、一栏多图排版，排版教程请参阅：https://www.latexstudio.net/hulatex/package/figure.htm。首先，排版需要引入头文件，一般为：
+如果排版过程中需要插入图片，怎么办？一般考虑3种情况：一栏单图排版、一栏多图排版，排版教程请参阅：https://www.latexstudio.net/hulatex/package/figure.htm。
+
+首先，排版需要引入头文件，一般为：
 
 ```
 \usepackage{graphicx}  % 图片插入引入头文件
@@ -136,7 +138,6 @@ Latex在线模板下载，请参阅Overleaf在线模板，https://www.overleaf.c
 
 1. algorithm2e使用手册官方版，http://mlg.ulb.ac.be/files/algorithm2e.pdf
 2. [参考算法排版](https://www.cnblogs.com/tsingke/p/5833221.html)，https://www.cnblogs.com/tsingke/p/5833221.html
-3. 
 
 ```
 \usepackage[ruled,linesnumbered]{algorithm2e} % 算法排版有很多种，其中一种方式
@@ -180,4 +181,4 @@ Latex在线模板下载，请参阅Overleaf在线模板，https://www.overleaf.c
 
 补充
 
-1. switch case，https://tex.stackexchange.com/questions/79264/algorithm2e-different-ending-words-for-switch-and-case-blocks
+1. [switch case](https://tex.stackexchange.com/questions/79264/algorithm2e-different-ending-words-for-switch-and-case-blocks)
