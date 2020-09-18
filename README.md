@@ -165,7 +165,7 @@ Latex表格过大过小调整：https://blog.csdn.net/wbl90/article/details/5259
 
 1. Latex在线公式编辑器，英文版：http://latex.codecogs.com/eqneditor/editor.php
 2. Latex在线公式编辑器，中文版：https://latex.vimsky.com/
-3. 从截图中提取公式，https://mathpix.com/，需要安装软件
+3. 从截图中提取公式，需要安装一个软件，https://mathpix.com/
 
 在线表格生成的工具，刚刚在表格部分介绍过：
 
