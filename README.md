@@ -32,7 +32,7 @@
 
 ---
 
-2020.6.29 补充：Latex有个 [Latex中文版本在线学习教程](https://www.latexstudio.net/hulatex/tutorial/ChineseBase.htm)。
+2020.6.29 补充：Latex有个 [Latex中文版本在线学习教程](https://www.latexstudio.net/hulatex/tutorial/ChineseBase.html)。
 
 ---
 
@@ -78,7 +78,7 @@ Latex在线模板下载，请参阅[Overleaf在线模板](https://www.overleaf.c
 \end{table}
 ```
 
-更多需要查阅的请参考表格排版，https://www.latexstudio.net/hulatex/package/table.htm。
+更多需要查阅的请参考表格排版，https://www.latexstudio.net/hulatex/package/table.html
 
 表格并排排版： http://blog.sina.com.cn/s/blog_630306a50101av80.html
 
@@ -86,7 +86,7 @@ Latex表格过大过小调整：https://blog.csdn.net/wbl90/article/details/5259
 
 ### 3.2 图片
 
-如果排版过程中需要插入图片，怎么办？一般考虑3种情况：一栏单图排版、一栏多图排版，排版教程请参阅：https://www.latexstudio.net/hulatex/package/figure.htm。
+如果排版过程中需要插入图片，怎么办？一般考虑3种情况：一栏单图排版、一栏多图排版，排版教程请参阅：https://www.latexstudio.net/hulatex/package/figure.html
 
 首先，排版需要引入头文件，一般为：
 
