@@ -1,5 +1,5 @@
 # LaTeX学习与笔记收集	
-适用于初学者和使用Latex排版查阅资料的排版人员。
+适用于初学者和使用Latex排版查阅资料的排版人员。视频解说版：https://www.bilibili.com/video/BV1Nt4y1Q7qR
 
 本文将从以下4个方面进行介绍：
 
