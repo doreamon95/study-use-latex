@@ -16,19 +16,19 @@
 
 - 针对高校或有论文排版任务的同学或老师，建议安装本地版本的，排版起来更为顺手
 
-更多入门选择请参见[知乎高赞回答](https://www.zhihu.com/question/268569440)，或者参阅[知乎排版编译器选择和安装笔记](https://zhuanlan.zhihu.com/p/32280635)。
+🔆更多入门选择请参见[知乎高赞回答](https://www.zhihu.com/question/268569440)，或者参阅[知乎排版编译器选择和安装笔记](https://zhuanlan.zhihu.com/p/32280635)。
 
 以下表格列出了三种常见的排版方式，目前比较推荐是TexLive2019+TexStudio组合或是overleaf在线工具。
 
 | 软件                        | 说明                                                         |
 | --------------------------- | ------------------------------------------------------------ |
-| TexLive2019+Vscode+SmartPDF | 目前已弃用。直接原因是在我目前使用观感中，Vscode在整体使用感觉上排版效率和流畅度确实不如TexStudio。 |
+| TexLive2019+Vscode+SmartPDF | Vscode在整体使用感觉上排版效率和流畅度确实不如TexStudio，但是鉴于Vscode语法高亮不错|
 | **TexLive2019+TexStudio**   | 推荐理由：术业有专攻，用专业工具。 [安装教程参考](http://static.latexstudio.net/article/2019/0527/install_TeXLive2019.pdf) |
 | 如果不想安装工具            | [在线overleaf排版教程](https://www.overleaf.com/learn)  [overleaf在线模板](https://www.overleaf.com/latex/templates) |
 
 ## 2. 在哪里查询模板如何入手
 
-首先建议初学者阅读华东科大制作的latex教程网页，内容非常全，点击 [华东师大LaTeX科技排版教程](http://math.ecnu.edu.cn/~jypan/Latex/index.html)。该教程也可作为后期排版定期浏览的一个查阅资料网站。此外，华东师大还有很多的参考资料，总之这个网站强烈推荐。
+✅✅首先建议初学者阅读华东科大制作的latex教程网页，内容非常全，点击 [华东师大LaTeX科技排版教程](http://math.ecnu.edu.cn/~jypan/Latex/index.html)。🔆该教程也可作为后期排版定期浏览的一个查阅资料网站。此外，华东师大还有很多的参考资料，总之这个网站强烈推荐。
 
 ---
 
@@ -173,11 +173,11 @@ Latex表格过大过小调整：https://blog.csdn.net/wbl90/article/details/5259
 
 以下介绍以下查阅工具资料：
 
-1. [数学符号一览查询表](http://math.ecnu.edu.cn/~jypan/Latex/docs/MathSymb.pdf)，http://math.ecnu.edu.cn/~jypan/Latex/docs/MathSymb.pdf
-2. [常见数学符号Latex表示方法](http://mohu.org/info/symbols/symbols.htm)，http://mohu.org/info/symbols/symbols.htm
-3. [Latex数学公式排版知乎参阅资料](https://zhuanlan.zhihu.com/p/24502400)，https://zhuanlan.zhihu.com/p/24502400
-4. [Latex细节排版纠正](https://ridiqulous.com/latex-notes-details/)，https://ridiqulous.com/latex-notes-details/
-5. [Latex如何自定义定理环境](https://www.notion.so/66d6f45e15ac499b92b53b37882f8e1c)，https://www.notion.so/66d6f45e15ac499b92b53b37882f8e1c
+1. [数学符号一览查询表](http://math.ecnu.edu.cn/~jypan/Latex/docs/MathSymb.pdf)
+2. [常见数学符号Latex表示方法](http://mohu.org/info/symbols/symbols.htm)
+3. [Latex数学公式排版知乎参阅资料](https://zhuanlan.zhihu.com/p/24502400)
+4. [Latex细节排版纠正](https://ridiqulous.com/latex-notes-details/)
+5. [Latex如何自定义定理环境](https://www.notion.so/66d6f45e15ac499b92b53b37882f8e1c)
 
 补充
 
